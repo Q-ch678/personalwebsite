@@ -191,6 +191,10 @@ This project is open source. Feel free to use it as a template for your own pers
 
 ---
 
+*Last updated: $(date)*
+
+---
+
 **Ready to launch?** 🎉
 1. ✅ Customize content
 2. ✅ Add your images  
