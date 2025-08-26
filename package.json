@@ -1,0 +1,12 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server $PORT"
+  },
+  "keywords": ["portfolio", "personal-website", "html", "css", "javascript"],
+  "author": "Your Name",
+  "license": "MIT"
+}
